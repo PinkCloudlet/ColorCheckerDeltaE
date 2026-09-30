@@ -1,0 +1,38 @@
+IT8.7/2
+ORIGINATOR "ColorChecker24 - November2014 edition and newer, converted for ArgyllCMS by Anna Olchawska"
+DESCRIPTOR "ColorChecker 24 (post-Nov 2014 edition)"
+CREATED "4/28/2015"
+MANUFACTURER "X-Rite"
+
+NUMBER_OF_FIELDS 4
+BEGIN_DATA_FORMAT
+SAMPLE_ID LAB_L LAB_A LAB_B
+END_DATA_FORMAT
+
+NUMBER_OF_SETS 24
+BEGIN_DATA
+A01 37.54   14.37   14.92  
+A02 64.66   19.27   17.50  
+A03 49.32   -3.82   -22.54 
+A04 43.46   -12.74  22.72  
+A05 54.94   9.61    -24.79 
+A06 70.48   -32.26  -0.37  
+B01 62.73   35.83   56.50  
+B02 39.43   10.75   -45.17 
+B03 50.57   48.64   16.67  
+B04 30.10   22.54   -20.87 
+B05 71.77   -24.13  58.19  
+B06 71.51   18.24   67.37  
+C01 28.37   15.42   -49.80 
+C02 54.38   -39.72  32.27  
+C03 42.43   51.05   28.62  
+C04 81.80   2.67    80.41  
+C05 50.63   51.28   -14.12 
+C06 49.57   -29.71  -28.32 
+D01 95.19   -1.03   2.93   
+D02 81.29   -0.57   0.44   
+D03 66.89   -0.75   -0.06  
+D04 50.76   -0.13   0.14   
+D05 35.63   -0.46   -0.48  
+D06 20.64   0.07    -0.46  
+END_DATA
